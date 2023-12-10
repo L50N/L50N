@@ -23,7 +23,6 @@
 - 📧 Email: [bartnikleon@proton.me](mailto:bartnikleon@proton.me)
 - 🔗 LinkedIn: [LinkedIn Profile](#)
 
----
 
 <div align="center">
 
