@@ -1,41 +1,43 @@
-<h1 align="center">👋 Hi, I'm Leon</h1>
+# 👋 Willkommen auf meinem GitHub-Profil! 
 
-<p align="center">
-  <a href="https://leon-bartnik.de">
-    <img src="YOUR_PERSONAL_BRANDING_LOGO_URL" width="100px" alt="Personal Branding Logo"/>
-  </a>
-</p>
+## 🌟 Über mich
+Kurzer Absatz über Ihre beruflichen Ziele, Interessen und was Sie einzigartig macht.
 
-<p align="center">
-  <a href="https://linkedin.com/in/aakarshb">
-    <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://behance.net/aakarshb">
-    <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" alt="Behance" title="Behance"/>
-  </a>
-  <!-- Weitere soziale Medien-Links hier -->
-</p>
+## 🔧 Technologien & Werkzeuge
+### Webentwicklung
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Über mich
-<p>
-  Ich bin ein passionierter und erfahrener Webentwickler, spezialisiert auf Frontend-Technologien wie HTML, CSS, JavaScript, Nuxt.js und Tailwind sowie auf Backend- und Server-Management mit Debian, pfSense, Proxmox, Ansible, Grafana und Docker. Mein Ziel ist es, effiziente und benutzerfreundliche Webanwendungen zu erstellen.
-</p>
+### Systemadministration und DevOps
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-154882?style=flat)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-1A1A1A?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
 
-## 💻 Programmiersprachen und Tools
-<p>
-  <img src="LINK_TO_HTML_ICON" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="LINK_TO_CSS_ICON" alt="CSS" title="CSS" width="40" height="40"/>
-  <!-- Fügen Sie hier weitere Icons ein -->
-</p>
+## 🌍 Meine Projekte
+Beschreiben Sie hier einige Ihrer Schlüsselprojekte. Verwenden Sie Bilder, Links und kurze Beschreibungen, um Ihre Arbeit hervorzuheben.
 
-## 🖥 Server-Backend-Technologien
-<p>
-  <img src="LINK_TO_DEBIAN_ICON" alt="Debian" title="Debian" width="40" height="40"/>
-  <img src="LINK_TO_PFSENSE_ICON" alt="pfSense" title="pfSense" width="40" height="40"/>
-  <!-- Fügen Sie hier weitere Icons ein -->
-</p>
+### 🔥 Projekt 1
+**Technologien**: Nuxt.js, TailwindCSS, Docker
+Kurze Beschreibung... ([Link zum Projekt](#))
+
+### 🚀 Projekt 2
+**Technologien**: Ansible, Proxmox, Grafana
+Kurze Beschreibung... ([Link zum Projekt](#))
+
+## 📫 Kontakt
+- 📧 E-Mail: [deine@email.com](mailto:deine@email.com)
+- 🔗 LinkedIn: [LinkedIn-Profil](#)
 
 ---
+
+Gerne ein ⭐ auf den Repositories da lassen, die dir gefallen!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L50N&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
