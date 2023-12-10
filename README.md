@@ -24,7 +24,7 @@
 
 <div align="center">
 
-🌟 *If you like my work, I would appreciate a ⭐ on the repositories you enjoy!*
+*If you like my work, I would appreciate a ⭐ on the repositories you enjoy!*
 
   <img src="https://github-readme-stats.vercel.app/api?username=L50N&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F7DF1E&icon_color=F7DF1E&text_color=F7DF1E&bg_color=0D1117" alt="GitHub Stats"/>
 
