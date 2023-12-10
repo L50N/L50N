@@ -1,7 +1,7 @@
 ## 🌟 About Me
 *Here you can add a short, engaging introduction about yourself and your professional goals.*
 
-## 🛠️ Technologies & Tools
+## 💫 Technologies & Tools
 ### 🌐 Web Development
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0D1117?style=for-the-badge&logo=nuxt.js&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=F7DF1E)
