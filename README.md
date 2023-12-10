@@ -20,13 +20,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F7DF1E)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-000000?style=for-the-badge&logo=nextcloud&logoColor=F7DF1E)
 
-## 💡 My Projects
-*Here you can highlight some of your key projects with brief descriptions and links to the repositories.*
-
-## 📫 Contact
-- 📧 Email: <a href="mailto:bartnikleon@proton.me" style="color: F7DF1E">bartnikleon@proton.me</a>
-- 🔗 LinkedIn: <a href="#" style="color: F7DF1E">LinkedIn Profile</a>
-
 <br/>
 
 <div align="center">
