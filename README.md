@@ -1,5 +1,3 @@
-# 👋 Heyya. I'm here, Leon
-
 ## 🌟 About Me
 *Here you can add a short, engaging introduction about yourself and your professional goals.*
 
