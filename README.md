@@ -1,8 +1,3 @@
-# 👋 Willkommen auf meinem GitHub-Profil! 
-
-## 🌟 Über mich
-Kurzer Absatz über Ihre beruflichen Ziele, Interessen und was Sie einzigartig macht.
-
 ## 🔧 Technologien & Werkzeuge
 ### Webentwicklung
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
