@@ -15,19 +15,8 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
 
-## 🌍 Meine Projekte
-Beschreiben Sie hier einige Ihrer Schlüsselprojekte. Verwenden Sie Bilder, Links und kurze Beschreibungen, um Ihre Arbeit hervorzuheben.
-
-### 🔥 Projekt 1
-**Technologien**: Nuxt.js, TailwindCSS, Docker
-Kurze Beschreibung... ([Link zum Projekt](#))
-
-### 🚀 Projekt 2
-**Technologien**: Ansible, Proxmox, Grafana
-Kurze Beschreibung... ([Link zum Projekt](#))
-
 ## 📫 Kontakt
-- 📧 E-Mail: [deine@email.com](mailto:deine@email.com)
+- 📧 E-Mail: [bartnikleon@proton.me](mailto:bartnikleon@proton.me)
 - 🔗 LinkedIn: [LinkedIn-Profil](#)
 
 ---
