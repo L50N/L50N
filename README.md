@@ -1,4 +1,4 @@
-# 👋 Heyya. Ich bins, Leon
+# 👋 Heyya. I'm here, Leon
 
 ## 🚀 Über mich
 *Hier können Sie eine kurze, ansprechende Einführung über sich und Ihre beruflichen Ziele geben.*
