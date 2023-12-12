@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1F23?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
-![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=bash&logoColor=58A6FF)
+![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=linux&logoColor=58A6FF)
 
 ### ⚙️ System Administration and DevOps
 ![Debian](https://img.shields.io/badge/Debian-1B1F23?style=for-the-badge&logo=debian&logoColor=58A6FF)
