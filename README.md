@@ -1,7 +1,7 @@
-## 🌟 About Me
+## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
-## 💫 Technologies & Tools
+## 🌊 Technologies & Tools
 ### 🌐 Web Development
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0D1117?style=for-the-badge&logo=nuxt.js&logoColor=58A6FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
