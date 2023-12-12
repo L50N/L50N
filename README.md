@@ -1,5 +1,5 @@
 ## 🌟 About Me
-*Here you can add a short, engaging introduction about yourself and your professional goals.*
+*Developer, designer, and system administrator based in Germany.*
 
 ## 💫 Technologies & Tools
 ### 🌐 Web Development
