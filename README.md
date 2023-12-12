@@ -11,7 +11,7 @@
 
 ### ⚙️ System Administration and DevOps
 ![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=58A6FF)
-![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=for-the-badge&logoColor=58A6FF)
+![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=for-the-badge&logoColor=58A6FF&logo=fireship)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0D1117?style=for-the-badge&logo=proxmox&logoColor=58A6FF)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF)
