@@ -17,6 +17,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-1B1F23?style=for-the-badge&logo=ansible&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-1B1F23?style=for-the-badge&logo=docker&logoColor=58A6FF)
 ![Grafana](https://img.shields.io/badge/Grafana-1B1F23?style=for-the-badge&logo=grafana&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/GIT-1B1F23?style=for-the-badge&logo=Git&logoColor=58A6FF)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-1B1F23?style=for-the-badge&logo=nextcloud&logoColor=58A6FF)
 
 <br/>
