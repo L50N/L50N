@@ -1,5 +1,3 @@
-<p>Heyy, ich bins, Leon <img style="height: 12px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></p>
-
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
