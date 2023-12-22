@@ -19,6 +19,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-1B1F23?style=for-the-badge&logo=grafana&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/GIT-1B1F23?style=for-the-badge&logo=Git&logoColor=58A6FF)
 ![NGINX](https://img.shields.io/badge/NGINX-1B1F23?style=for-the-badge&logo=nginx&logoColor=58A6FF)
+![LineageOS](https://img.shields.io/badge/LineageOS-1B1F23?style=for-the-badge&logo=lineageos&logoColor=58A6FF)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-1B1F23?style=for-the-badge&logo=nextcloud&logoColor=58A6FF)
 
 <br/>
