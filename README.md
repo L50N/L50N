@@ -2,13 +2,15 @@
 *Developer, designer, and system administrator based in Germany.*
 
 ## 🌊 Technologies & Tools
-### 🌐 Web Development
+### 🌐 Development
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-1B1F23?style=for-the-badge&logo=nuxt.js&logoColor=58A6FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1B1F23?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=58A6FF)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1F23?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=linux&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![NPM](https://img.shields.io/badge/NPM-1B1F23?style=for-the-badge&logo=NPM&logoColor=58A6FF)
 
 ### ⚙️ System Administration and DevOps
 ![Debian](https://img.shields.io/badge/Debian-1B1F23?style=for-the-badge&logo=debian&logoColor=58A6FF)
@@ -19,6 +21,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-1B1F23?style=for-the-badge&logo=grafana&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/GIT-1B1F23?style=for-the-badge&logo=Git&logoColor=58A6FF)
 ![NGINX](https://img.shields.io/badge/NGINX-1B1F23?style=for-the-badge&logo=nginx&logoColor=58A6FF)
+![Sonatype](https://img.shields.io/badge/Sonatype-1B1F23?style=for-the-badge&logo=sonatype&logoColor=58A6FF)
 ![LineageOS](https://img.shields.io/badge/LineageOS-1B1F23?style=for-the-badge&logo=lineageos&logoColor=58A6FF)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-1B1F23?style=for-the-badge&logo=nextcloud&logoColor=58A6FF)
 
