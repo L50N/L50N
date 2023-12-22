@@ -1,4 +1,4 @@
-<p sytle="display: flex; justify-content: center;"> Heyy, ich bins, Leon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
+Heyy, ich bins, Leon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
