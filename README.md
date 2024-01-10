@@ -3,6 +3,7 @@
 
 ## 🌊 Technologies & Tools
 ### 🌐 Development
+![Java](https://img.shields.io/badge/Java-1B1F23?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=58A6FF)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-1B1F23?style=for-the-badge&logo=nuxt.js&logoColor=58A6FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1B1F23?style=for-the-badge&logo=tailwind-css&logoColor=58A6FF)
 ![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=58A6FF)
