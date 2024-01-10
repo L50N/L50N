@@ -31,6 +31,7 @@
 ![Sonatype](https://img.shields.io/badge/Sonatype-1B1F23?style=for-the-badge&logo=sonatype&logoColor=58A6FF)
 ![LineageOS](https://img.shields.io/badge/LineageOS-1B1F23?style=for-the-badge&logo=lineageos&logoColor=58A6FF)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-1B1F23?style=for-the-badge&logo=nextcloud&logoColor=58A6FF)
+![MariaDB](https://img.shields.io/badge/MariaDB-1B1F23?style=for-the-badge&logo=MariaDB&logoColor=58A6FF)
 
 <br/>
 
