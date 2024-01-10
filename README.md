@@ -17,6 +17,7 @@
 ![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=Figma&logoColor=58A6FF)
 ![Photoshop](https://img.shields.io/badge/Photoshop-1B1F23?style=for-the-badge&logo=Adobe-Photoshop&logoColor=58A6FF)
 ![Illustrator](https://img.shields.io/badge/Illustrator-1B1F23?style=for-the-badge&logo=Adobe-Illustrator&logoColor=58A6FF)
+![GoogleFonts](https://img.shields.io/badge/GoogleFonts-1B1F23?style=for-the-badge&logo=Google-Fonts&logoColor=58A6FF)
 
 ### ⚙️ System Administration and DevOps
 ![Debian](https://img.shields.io/badge/Debian-1B1F23?style=for-the-badge&logo=debian&logoColor=58A6FF)
