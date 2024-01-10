@@ -15,7 +15,6 @@
 
 ### 👀 Design
 ![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=Figma&logoColor=58A6FF)
-![After Effects](https://img.shields.io/badge/Adobe-After-Effects-1B1F23?style=for-the-badge&logo=Adobe-After-Effects&logoColor=58A6FF)
 ![Photoshop](https://img.shields.io/badge/Photoshop-1B1F23?style=for-the-badge&logo=Adobe-Photoshop&logoColor=58A6FF)
 ![Illustrator](https://img.shields.io/badge/Illustrator-1B1F23?style=for-the-badge&logo=Adobe-Illustrator&logoColor=58A6FF)
 
