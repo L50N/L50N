@@ -1,5 +1,5 @@
-<div sytle="width: 100%;">
-  <img style="width: 100vw;" src="https://i.ibb.co/DK19fRf/Frame-25-1.png">
+<div>
+<a style="width: 100vw;" href="https://leon-bartnik.de"><img src="https://i.ibb.co/8536NnG/Frame-25-2.png" border="0"></a>
 </div>
 
 ## 💻 About Me
