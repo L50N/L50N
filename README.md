@@ -1,3 +1,7 @@
+<div sytle="width: 100%;">
+  <img src="https://ibb.co/TcmVz3Z">
+</div>
+
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
