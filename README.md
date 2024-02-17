@@ -1,5 +1,5 @@
 <div sytle="width: 100%;">
-  <img src="https://i.ibb.co/1Z8DHW3/Frame-25.png">
+  <img src="https://i.ibb.co/DK19fRf/Frame-25-1.png">
 </div>
 
 ## 💻 About Me
