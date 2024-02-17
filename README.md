@@ -1,7 +1,3 @@
-<div>
-<a href="https://leon-bartnik.de"><img style="width: 100vw;" src="https://i.ibb.co/QNBrp7h/Frame-25-2.png" border="0"></a>
-</div>
-
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
