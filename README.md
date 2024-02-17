@@ -1,5 +1,5 @@
 ## 💻 About Me
-*Developer, designer, and system administrator based in Germany.*
+*Own interest: Developer, designer, and system administrator based in Germany.*
 
 ## 🌊 Technologies & Tools
 ### 🌐 Development
