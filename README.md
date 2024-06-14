@@ -1,5 +1,5 @@
 ## 💻 About Me
-*Own interest: Developer, designer, and system administrator based in Germany.*
+*Developer, designer, and system administrator based in Germany.*
 
 ## 🌊 Technologies & Tools
 ### 🌐 Development
@@ -15,6 +15,7 @@
 ![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=linux&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![NPM](https://img.shields.io/badge/NPM-1B1F23?style=for-the-badge&logo=NPM&logoColor=58A6FF)
+![Laravel](https://img.shields.io/badge/Laravel-1B1F23?style=for-the-badge&logo=Laravel&logoColor=58A6FF)
 
 ### 👀 Design
 ![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=Figma&logoColor=58A6FF)
