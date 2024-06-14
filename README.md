@@ -1,7 +1,7 @@
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
-## 🌊 Technologies & Tools
+## 🌊 Technologies & Tools, which I have already been able to explore
 ### 🌐 Development
 ![Java](https://img.shields.io/badge/Java-1B1F23?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=58A6FF)
 ![Typescript](https://img.shields.io/badge/Typescript-1B1F23?style=for-the-badge&logo=Typescript&logoColor=58A6FF)
