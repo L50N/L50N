@@ -15,7 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![NPM](https://img.shields.io/badge/NPM-1B1F23?style=for-the-badge&logo=NPM&logoColor=58A6FF)
 ![Yarn](https://img.shields.io/badge/Yarn-1B1F23?style=for-the-badge&logo=Yarn&logoColor=58A6FF)
-![Laravel](https://img.shields.io/badge/Laravel-1B1F23?style=for-the-badge&logo=Laravel&logoColor=58A6FF)
 
 ### 👀 Design
 ![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=Figma&logoColor=58A6FF)
