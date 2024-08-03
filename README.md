@@ -1,3 +1,5 @@
+![Spot](https://github.com/user-attachments/assets/8b590355-bb6c-4110-a78d-3dd23b2905b8)
+
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
 
