@@ -6,7 +6,7 @@
 
 ## 🌊 Technologies & Tools, which I have already been able to explore
 ### 🌐 Development
-![Java](https://img.shields.io/badge/Java-1B1F23?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/Java-1B1F23?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
 ![Svelte](https://img.shields.io/badge/Svelte-1B1F23?style=for-the-badge&logo=Svelte&logoColor=58A6FF)
 ![Angular](https://img.shields.io/badge/angular-1B1F23?style=for-the-badge&logo=angular&logoColor=58A6FF)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-1B1F23?style=for-the-badge&logo=nuxt.js&logoColor=58A6FF)
