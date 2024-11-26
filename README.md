@@ -14,7 +14,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1B1F23?style=for-the-badge&logo=css3&logoColor=58A6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![Bash](https://img.shields.io/badge/Bash-1B1F23?style=for-the-badge&logo=linux&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=for-the-badge&logo=javascript&logoColor=58A6FF)
 ![NPM](https://img.shields.io/badge/NPM-1B1F23?style=for-the-badge&logo=NPM&logoColor=58A6FF)
 ![Yarn](https://img.shields.io/badge/Yarn-1B1F23?style=for-the-badge&logo=Yarn&logoColor=58A6FF)
 
