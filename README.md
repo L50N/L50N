@@ -2,6 +2,7 @@
 
 ## 💻 About Me
 *Developer, designer, and system administrator based in Germany.*
+[![](https://visitcount.itsvg.in/api?id=L50N&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌊 Technologies & Tools, which I have already been able to explore
 ### 🌐 Development
