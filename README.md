@@ -1,8 +1,5 @@
-![Spot](https://github.com/user-attachments/assets/8b590355-bb6c-4110-a78d-3dd23b2905b8)
-
 ## 💻 About Me
-*Developer, designer, and system administrator based in Germany.* <br/><br/>
-[![](https://visitcount.itsvg.in/api?id=L50N&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+*Developer, designer, and system administrator based in Germany.* <br/>
 
 ## 🌊 Technologies & Tools, which I have already been able to explore
 ### 🌐 Development
