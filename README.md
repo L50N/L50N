@@ -25,8 +25,6 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ![Illustrator](https://img.shields.io/badge/Illustrator-1B1F23?style=for-the-badge&logo=plotly&logoColor=58A6FF)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-1B1F23?style=for-the-badge&logo=google-fonts&logoColor=58A6FF)
 
-> I craft user experiences using Figma for UI/UX and visualize with Adobe Photoshop & Illustrator.
-
 ##
 
 ### System Administration & DevOps
@@ -40,8 +38,6 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ![Sonatype](https://img.shields.io/badge/Sonatype-1B1F23?style=for-the-badge&logo=sonatype&logoColor=58A6FF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-1B1F23?style=for-the-badge&logo=mariadb&logoColor=58A6FF)
 ![GitLab](https://img.shields.io/badge/GitLab-1B1F23?style=for-the-badge&logo=gitlab&logoColor=58A6FF)
-  
-> My stack includes Dockerized services, TRAEFIK reverse proxies, relational databases, and CI/CD pipelines with GitLab.
 
 ##
 
