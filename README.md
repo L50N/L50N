@@ -1,5 +1,4 @@
-Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administrator** from Europe.  
-This profile provides an overview of my skills and the technologies I use.
+Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administrator** from Europe.
 
 ##
 
