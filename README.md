@@ -14,7 +14,7 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ![npm](https://img.shields.io/badge/npm-1B1F23?style=for-the-badge&logo=npm&logoColor=58A6FF)
 ![Yarn](https://img.shields.io/badge/Yarn-1B1F23?style=for-the-badge&logo=yarn&logoColor=58A6FF)
 
-> **Frontend:** I build modern web applications using Svelte, TailwindCSS, and JavaScript. I strive for clean, accessible, and responsive interfaces.  
+> **Frontend:** I build modern web applications using Svelte, TailwindCSS, and JavaScript. I strive for clean and responsive interfaces.  
 > **Backend:** I develop robust backend solutions in Java.
 
 ##
@@ -25,7 +25,7 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ![Illustrator](https://img.shields.io/badge/Illustrator-1B1F23?style=for-the-badge&logo=plotly&logoColor=58A6FF)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-1B1F23?style=for-the-badge&logo=google-fonts&logoColor=58A6FF)
 
-> I craft engaging user experiences using Figma for UI/UX, enhance visuals with Adobe Photoshop & Illustrator, and ensure typography excellence with Google Fonts.
+> I craft user experiences using Figma for UI/UX and visualize with Adobe Photoshop & Illustrator.
 
 ##
 
@@ -40,8 +40,7 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ![Sonatype](https://img.shields.io/badge/Sonatype-1B1F23?style=for-the-badge&logo=sonatype&logoColor=58A6FF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-1B1F23?style=for-the-badge&logo=mariadb&logoColor=58A6FF)
 ![GitLab](https://img.shields.io/badge/GitLab-1B1F23?style=for-the-badge&logo=gitlab&logoColor=58A6FF)
-
-> I manage Linux servers, configure firewalls and routers with pfSense, and run virtualized environments on Proxmox.  
+  
 > My stack includes Dockerized services, TRAEFIK reverse proxies, relational databases, and CI/CD pipelines with GitLab.
 
 ##
