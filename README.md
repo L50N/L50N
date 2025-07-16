@@ -27,7 +27,7 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 
 ##
 
-### System Administration & DevOps
+### System Administration
 ![Debian](https://img.shields.io/badge/Debian-1B1F23?style=for-the-badge&logo=debian&logoColor=58A6FF)
 ![pfSense](https://img.shields.io/badge/pfSense-1B1F23?style=for-the-badge&logoColor=58A6FF&logo=fireship)
 ![Proxmox](https://img.shields.io/badge/Proxmox-1B1F23?style=for-the-badge&logo=proxmox&logoColor=58A6FF)
