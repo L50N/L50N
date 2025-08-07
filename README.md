@@ -22,7 +22,6 @@ Welcome! I’m **L50N** — a **Developer**, **Designer**, and **System Administ
 ### UI/UX
 ![Photoshop](https://img.shields.io/badge/Photoshop-1B1F23?style=for-the-badge&logo=plotly&logoColor=58A6FF)
 ![Illustrator](https://img.shields.io/badge/Illustrator-1B1F23?style=for-the-badge&logo=plotly&logoColor=58A6FF)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-1B1F23?style=for-the-badge&logo=google-fonts&logoColor=58A6FF)
 ![Figma](https://img.shields.io/badge/Figma-1B1F23?style=for-the-badge&logo=figma&logoColor=58A6FF)
 
 ##
